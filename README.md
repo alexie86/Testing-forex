@@ -1,4 +1,4 @@
-tensorflow==2.18.0
+tensorflow.keras
 transformers==4.26.1
 scikit-learn==1.2.2
 pandas==1.5.3
