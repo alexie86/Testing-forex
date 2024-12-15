@@ -1,1 +1,11 @@
-# Testing-forex
+streamlit 
+pandas 
+numpy
+tensorflow-cpu==2.18.0
+protobuf<4
+transformers 
+scikit-learn 
+yfinance 
+newsapi 
+datetime 
+plotly
