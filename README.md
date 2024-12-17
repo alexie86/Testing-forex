@@ -82,6 +82,7 @@ tenacity==9.0.0
 tensorboard==2.12.3
 tensorboard-data-server==0.7.2
 tensorflow==2.12.0
+tensorflow-cpu==2.12.0
 tensorflow-estimator==2.12.0
 tensorflow-intel==2.12.0
 tensorflow-io-gcs-filesystem==0.31.0
@@ -101,4 +102,5 @@ Werkzeug==3.1.3
 wrapt==1.14.1
 yfinance==0.2.50
 zope.interface==7.2
+
 
